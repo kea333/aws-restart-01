@@ -21,7 +21,7 @@ I executed tasks to successfully achieve the following objectives:
 
 *   Use string manipulations to obtain the amino acid sequence of human insulin from preproinsulin.
 
-*   Perform basic math on the sequence and molecular weight of insulin.
+*   Perform basic maths on the sequence and molecular weight of insulin.
 
 *   Calculate the _net charge_ of insulin by first creating a dictionary of amino acid pKa values (pKa indicates the strength of an acid).
 
