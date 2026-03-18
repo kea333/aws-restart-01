@@ -9,7 +9,7 @@
 Welcome to my AWS Cloud9 repo numéro un !
 
 This repository contains Python and JSON files created and coded utilising AWS Cloud9 CLI as browser-based shell, together with its browser-based IDE code editor and debugger. 
-
+ 
 The scripts contained herein are a demonstration of my skills in using AWS resources to solve practical problems, and in using Python for scientific computing applications in biochemistry and also in cryptography.
 
 I executed tasks to successfully achieve the following objectives:
