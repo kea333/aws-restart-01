@@ -15,6 +15,7 @@ The scripts contained herein are a demonstration of skills in using AWS resource
 I executed tasks to successfully achieve the following objectives:
 
 
+
 **1. Human Insulin - Basic Analysis**
 
 *   Retrieve the protein (amino acids) sequence of human preproinsulin, in preparation for analysis of human insulin.
@@ -24,6 +25,8 @@ I executed tasks to successfully achieve the following objectives:
 *   Perform basic maths on the sequence and molecular weight of insulin.
 
 *   Calculate the _net charge_ of insulin by first creating a dictionary of amino acid pKa values (pKa indicates the strength of an acid).
+
+
 
 **2. Cryptography - Basic Encryption and Decryption**
 
@@ -38,11 +41,14 @@ I executed tasks to successfully achieve the following objectives:
 *   Utilise features of the AWS Cloud9 Python Debugger.
 
 
+
 Enjoy !
 
 Please visit https://docs.aws.amazon.com/console/cloud9/ for AWS Cloud9 documentation.
 
+
 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+
 
 **Clarification** - In the file _calc_weight_json.py_, the calculated and stated "rough molecular weight of insulin" is obtained to be 6696.42. The actual molecular weight of human insulin (monomer) is 5808 _Daltons_. The simple reason for this whopping 15% discrepancy is that the creators of this laboratory exercise were rightly focused on computing using AWS Cloud9, not on the details of biochemistry.
 
@@ -59,6 +65,7 @@ Finally subtract the 6 hydrogens lost (atomic weight 1 each) due to 3 disulfide 
 5814 - 6 = 5808.
 
 And with that, Bob is your uncle ! 
+
 
 _**Illustration:**_
 
