@@ -64,7 +64,7 @@ _**Illustration:**_
 
 ```text
 
-1. Dipeptide Formation
+1. Dipeptide Formation:
 
     R1                      R2                           R1  O     R2
     |                       |                            |  ||     |
@@ -73,7 +73,8 @@ NH2-CH-COOH    +        NH2-CH-COOH      --->        NH2-CH-C--NH--CH-COOH  +  H
 Amino Acid 1            Amino Acid 2                          Dipeptide
 
 
-2. Polypeptide / Protein Formation
+2. Polypeptide / Protein Formation:
+
         R1                R2                        Rn
         |                 |                         |
 n [ NH2-CH-COOH ] + [ NH2-CH-COOH ] + . . . + [ NH2-CH-COOH ] 
