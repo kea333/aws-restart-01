@@ -90,7 +90,7 @@ Amino Acid 1            Amino Acid 2                          Dipeptide
 
         R1                R2                        Rn
         |                 |                         |
-n [ NH2-CH-COOH ] + [ NH2-CH-COOH ] + . . . + [ NH2-CH-COOH ] 
+  [ NH2-CH-COOH ] + [ NH2-CH-COOH ] + . . . + [ NH2-CH-COOH ] 
 
   Amino Acid 1       Amino Acid 2              Amino Acid n
 
